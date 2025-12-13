@@ -10,3 +10,11 @@
   "login": "stelligent",
   "id": 1551090,
 ```
+
+
+### Get Users
+
+```
+.\get-users.ps1
+
+```
