@@ -18,3 +18,19 @@
 .\get-users.ps1
 
 ```
+
+### Removing Users
+
+```
+$env:GITHUB_TOKEN = "github_pat_11......"
+
+remove-github-users.py stelligent
+```
+
+### Add users to Stelligent
+
+```
+
+$env:GITHUB_TOKEN = "github_pat_11......"
+python add_users_to_org.py
+```
